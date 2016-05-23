@@ -61,3 +61,12 @@
 [1-5B]: 00-programming/js-debugging-lesson                              "JS Debugging"
 [1-5C]: 00-programming/js-fundamental-reviews/rock-paper-scissors.js    "Review - Rock, Paper, Scissors"
 [1-5D]: https://github.com/wdi-hk-11/JavaScript-Koans                   "HLab: JS Koans"
+
+#### Week 1 | Day 1
+<a name="w1d1"></a>
+
+- Homework
+  - Read [What is Code? (by Bloomberg Business)](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+  - Read [20 things I've learned about browsers and the web](http://www.20thingsilearned.com/en-US/home)
+  - Try the typing exercises on [typing.io](https://www.typing.io/) and see how fast you type code
+  - Watch [DNS Explained](https://www.youtube.com/watch?v=72snZctFFtA) to how DNS works
