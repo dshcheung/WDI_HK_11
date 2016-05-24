@@ -28,7 +28,7 @@
 | [Navigating the file system][1-1B] | [Chrome Dev Tools][1-2C]              | [ILab: HTML CSS Site Replication][1-3C]    | [Mastering The Flow][1-4D]                 | Fundamental Reviews                    |
 | [HLab: Command Line][1-1C]         | [CSS Selector Basics][1-2D]           | [Bootstrap CSS Slides][1-3D]               | [HLab: Functions][1-4E]                    | [Review - Rock, Paper, Scissors][1-5C] |
 | -                                  | [CSS Selector Game][1-2E]             | [Bootstrap CSS Lesson][1-3E]               | -                                          | [HLab: JS Koans][1-5D]                 |
-| -                                  | [HLab: Build a Website][1-2F]         | [HLab: Boostrap Site Replication][1-3F]    | -                                          | -                                      |
+| -                                  | [HLab: Simple Website][1-2F]         | [HLab: Boostrap Site Replication][1-3F]    | -                                          | -                                      |
 
 [1-1A]: 00-programming/install-fest/README.md                           "Install Fest"
 [1-1B]: 01-workflow/navigating-the-file-system-lesson                   "Navigating the file system"
@@ -40,7 +40,7 @@
 [1-2C]: 01-workflow/chrome-dev-tools-lesson                             "Chrome Dev Tools"
 [1-2D]: 02-front-end-intro/css-selector-basics                          "CSS Selector Basics"
 [1-2E]: http://flukeout.github.io                                       "CSS Selector Game"
-[1-2F]: https://github.com/wdi-hk-11/lab-html-css-website               "HLab: Build a website Lab"
+[1-2F]: https://github.com/wdi-hk-11/lab-simple-website                 "HLab: Build website"
 
 [1-3A]: 14-assessments/w01d3.md                                         "Assessment"
 [1-3Z]: 14-assessments/w01d3-solution.html                              "Assessment Solution"
