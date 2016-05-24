@@ -155,8 +155,7 @@ Authentication successful.
 #### Sign up AWS
 - Complete the “sign up” steps at http://aws.amazon.com/
 
-#### Add your user information for different sites here:
-- https://docs.google.com/spreadsheets/d/1XDI8P9P3yub_8I8PxBc6aD8eMtjUkekDFBZqxmSaGFc/edit#gid=0
+#### Add your user information to the class spreadsheet
 
 ## Instructors
 - [CheatSheet](http://www.macupdate.com/app/mac/43222/cheatsheet) - Show shortcut keys for most applications by holding the `Command` key

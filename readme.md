@@ -23,12 +23,12 @@
 | ---------------------------------- | ------------------------------------- | ------------------------------------------ | ------------------------------------------ | -------------------------------------- |
 | KICKOFF!!                          | [Assessment][1-2A] & [Solution][1-2Z] | [Assessment][1-3A] & [Solution][1-3Z]      | [Assessment][1-4A] & [Solution][1-4Z]      | [Assessment][1-5A] & [Solution][1-5Z]  |
 | [Install Fest][1-1A]               | [RLab: Command Line][1-1C]            | [RLab: Build a Website][1-2F]              | [RLab: Boostrap Website Replication][1-3F] | [RLab: Functions][1-4E]                |
-|                                    | [HTML Basics][1-2B]                   | [Box Model and Positioning][1-3B]          | [Data Types, Variables, Arrays][1-4C]      | [JS Debugging][1-5B]                   |
+|                                    | [HTML Basics][1-2B]                   | [Box Model and Positioning][1-3B]          | [Data Types, Variables, Arrays][1-4C]      | [*xJS Debugging][1-5B]                 |
 | LUNCH                              | LUNCH                                 | LUNCH                                      | LUNCH                                      | LUNCH                                  |
-| [Navigating the file system][1-1B] | [Chrome Dev Tools][1-2C]              | [ILab: CSS Website Replication][1-3C]      | [Mastering The Flow][1-4D]                 | Fundamental Reviews                    |
+| [Navigating the file system][1-1B] | [Chrome Dev Tools][1-2C]              | [ILab: HTML CSS Site Replication][1-3C]    | [Mastering The Flow][1-4D]                 | Fundamental Reviews                    |
 | [HLab: Command Line][1-1C]         | [CSS Selector Basics][1-2D]           | [Bootstrap CSS Slides][1-3D]               | [HLab: Functions][1-4E]                    | [Review - Rock, Paper, Scissors][1-5C] |
 | -                                  | [CSS Selector Game][1-2E]             | [Bootstrap CSS Lesson][1-3E]               | -                                          | [HLab: JS Koans][1-5D]                 |
-| -                                  | [HLab: Build a Website][1-2F]         | [HLab: Boostrap Website Replication][1-3F] | -                                          | -                                      |
+| -                                  | [HLab: Build a Website][1-2F]         | [HLab: Boostrap Site Replication][1-3F]    | -                                          | -                                      |
 
 [1-1A]: 00-programming/install-fest/README.md                           "Install Fest"
 [1-1B]: 01-workflow/navigating-the-file-system-lesson                   "Navigating the file system"
@@ -45,7 +45,7 @@
 [1-3A]: 14-assessments/w01d3.md                                         "Assessment"
 [1-3Z]: 14-assessments/w01d3-solution.html                              "Assessment Solution"
 [1-3B]: 02-front-end-intro/css-box-model-and-positioning                "Box Model and Positioning"
-[1-3C]: https://github.com/wdi-hk-11/lab-css-site-replication           "ILab: CSS Web Replication"
+[1-3C]: https://github.com/wdi-hk-11/lab-html-css-site-replication      "ILab: CSS Web Replication"
 [1-3D]: 02-front-end-intro/css-bootstrap-lesson                         "Bootstrap CSS Lesson"
 [1-3E]: https://presentations.generalassemb.ly/649ce6766e83f246e122     "Bootstrap CSS Slides"
 [1-3F]: https://github.com/wdi-hk-11/lab-bootstrap-site-replication     "HLab: Bootstrap Web Replication"
