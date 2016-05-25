@@ -51,6 +51,50 @@ $ xcode-select —install
 - Creating a symlink to the Application from the terminal
 - In `~/.zshrc`, Add `alias subl="open -a 'Sublime Text'"`
 
+- Open Sublime
+- Navigate to Sublime Text > Settings - User
+- Replace everything with below
+
+  ```json
+    {
+      "auto_indent": true,
+      "color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+      "detect_indentation": true,
+      "draw_white_space": "all",
+      "font_size": 13,
+      "highlight_line": true,
+      "highlight_modified_tabs": true,
+      "ignored_packages":
+      [
+        "Markdown",
+        "Vintage"
+      ],
+      "scroll_past_end": true,
+      "tab_completion": true,
+      "tab_size": 2,
+      "translate_tabs_to_spaces": true,
+      "trim_trailing_white_space_on_save": true,
+      "use_tab_stops": true,
+      "word_wrap": true
+    }
+  ```
+- Save
+
+- Open Sublime
+- Go to https://packagecontrol.io/installation
+- Copy the link
+- press `control + ` to open the console
+- Paste the code and press `enter`
+- When installation is complete, press `Command + Shift + p`
+- Search `Package Control: Install Package` and press `enter`
+- Wait a while until another search pops up
+- Search the following package (repeat the process above for every package)
+  1. `Bracket Highlighter`
+  1. `Colorsublime`
+  1. `Emmet`
+  1. `GitGutter`
+  1. `SublimeLinter`
+
 #### Homebrew (OSX’s Package Manager)
 - Go to http://brew.sh/
 - Package manager on Mac OS X
