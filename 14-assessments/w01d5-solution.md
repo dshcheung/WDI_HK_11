@@ -1,10 +1,44 @@
 # Assessment W1/D5
-## Bootstap
-1. 12
-1. col-xs-x, col-sm-x, col-md-x, col-lg-x
-1. `.container` is a fixed width container. `.container-fluid` is a full width container which spans the entire width of the viewport.
 
-## JavaScript
+## JS Part I
+1. String, Integer, Float, Boolean
+1. `Math.pow(2, 2)` and `Math.sqrt(4)`
+1. `Math.floor(n)` and `Math.ceil(n)`
+1. `.indexOf()`, `.split()` more at [here](http://www.w3schools.com/jsref/jsref_obj_string.asp)
+1. `.pop()`, `.join()` more at [here](http://www.w3schools.com/jsref/jsref_obj_array.asp)
+1. `undefined` means that a value was not declared, while `null` is defined specifically to equal to nothing.
+
+## Bonus
+
+```js
+// question 1
+  var cuteAnimals = ["cat", "dog", "hedgehog"]
+
+  // forEach
+  cuteAnimals.forEach(function(animal){
+    console.log("I love " + animal);
+  })
+
+  // Classic for loop
+  for (var i=0; i<cuteAnimals.length; i++){
+    console.log("I love " + cuteAnimals[i]);
+  }
+
+
+// question 2
+  var x = [1,2,3,4,5];
+  var swap = function (array, index1, index2) {
+    var tmp = array[index1];
+    array[index1] = array[index2];
+    array[index2] = tmp;
+  };
+
+  swap(x, 0, 4);
+
+  console.log(x);  // should be evaluated as [5,2,3,4,1]
+```
+
+## JS Part II
 1. `x[0]`
 1. `x[x.length-1]`
 1. `x[(x.length-1)/2]`
