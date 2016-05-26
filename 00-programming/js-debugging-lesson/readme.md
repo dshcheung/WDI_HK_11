@@ -1,13 +1,3 @@
----
-title: JS Debugging
-type: lesson
-duration: 1
-creator:
-    name: Gerry Mathe
-    city: London
-competencies: Programming
----
-
 # JS Debugging
 
 ### Objectives
@@ -121,6 +111,8 @@ You can re-format the code using the "Pretty Print" button of the bottom left si
 > When you start building web apps in larger frameworks like Rails or Express, you'll set up your development environment so that code is only minified when you're deploying a production app, not while you're developing actively.
 
 ## Independent Practice (15 mins)
+
+Fork and clone this [repo](https://github.com/wdi-hk-11/lesson-js-debugging)
 
 Debug the code using the Chrome development tools. Uncomment:
 
