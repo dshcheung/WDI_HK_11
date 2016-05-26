@@ -52,7 +52,7 @@ $ xcode-select —install
 - In `~/.zshrc`, Add `alias subl="open -a 'Sublime Text'"`
 
 - Open Sublime
-- Navigate to Sublime Text > Settings - User
+- Navigate to Sublime Text > Peferrences > Settings - User
 - Replace everything with below
 
   ```json
@@ -83,7 +83,7 @@ $ xcode-select —install
 - Open Sublime
 - Go to https://packagecontrol.io/installation
 - Copy the link
-- press `control + ` to open the console
+- press `control +` ` to open the console
 - Paste the code and press `enter`
 - When installation is complete, press `Command + Shift + p`
 - Search `Package Control: Install Package` and press `enter`
