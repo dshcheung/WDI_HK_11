@@ -81,7 +81,7 @@
 | LUNCH                            | [Function and Scope][2-2B]            | LUNCH                          | LUNCH                         | LUNCH                           |
 | [JS Arrays][2-1C]                | LUNCH                                 | [JQuery Lesson][2-3C]          | [ILab: 10 Seconds Math][2-4B] | [Agile Framework][2-5C]         |
 | [ILab: JS Arrays Problems][2-1D] | [Github Lesson][2-2C]                 | [JQuery Game][2-3D]            | -                             | Project Pitch Day1              |
-| [+HLab: Objects & Arrays][2-1E]  | [ILab: Github][2-2D]                  | [HLab: Shoppoing Cart][2-3E]   | -                             | -                               |
+| [HLab: Objects & Arrays][2-1E]   | [ILab: Github][2-2D]                  | [HLab: Shoppoing Cart][2-3E]   | -                             | -                               |
 | -                                | [Read: Git][2-2E]                     | -                              | -                             | -                               |
 
 [2-1A]: 00-programming/js-objects-lesson                                      "JS Objects"
@@ -95,7 +95,7 @@
 [2-2B]: 00-programming/js-functions-and-scope                                 "Function and Scope"
 [2-2C]: 01-workflow/git-github-lesson                                         "Github Lesson"
 [2-2D]: https://github.com/wdi-hk-11/lab-git-github                           "ILab: Github"
-[2-2E]: https://????                                                          "Read: Git"
+[2-2E]: https://git-scm.com/doc                                               "Read: Git"
 
 [2-3A]: 02-front-end-intro/js-dom-manipulation-lesson                         "Dom Manipulation"
 [2-3B]: https://github.com/wdi-hk-11/lab-js-dom-manipulation                  "ILab: Dom Manipulation"
