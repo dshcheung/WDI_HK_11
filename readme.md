@@ -109,3 +109,27 @@
 [2-5A]: projects/project-01.md                                                "Project Spec"
 [2-5B]: projects/presentation_guideline.md                                    "Presentation Guidelines"
 [2-5C]: 01-workflow/agile-user-stories-wireframes-lesson                      "Agile Framework"
+
+<a name="week4"></a>
+### Week 4 | Node.js First Steps
+
+| [Monday](#w4d1)                          | [Tuesday](#w4d2)                        | [Wednesday](#w4d3)                      | [Thursday](#w4d4)                       | [Friday](#w4d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Week 1-3 Retrospective                   | Node.js: First steps                    | Labs                                    | Mongo DB                                | Node.js: Mongoose                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Project 1 Feedback                       | Node.js: Jade templating                | Node.js: JSON                           | Lab                                     | Lab                                     |
+| How to structure code                    | Lab                                     | Node.js: AJAX                           | -                                       | -                                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
+
+<a name="week5"></a>
+### Week 5 | Node.js Hackathon
+
+| [Monday](#w5d1)                          | [Tuesday](#w5d2)                        | [Wednesday](#w5d3)                      | [Thursday](#w5d4)                       | [Friday](#w4d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middelware                     | Project Spec                            |
+| -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Node.js: Social login                    | Labs                                    | Labs                                    | Node.js: Heroku introduction            | -                                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
+| -                                        | -                                       | -                                       | -                                       | -                                       |
