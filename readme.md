@@ -110,17 +110,38 @@
 [2-5B]: projects/presentation_guideline.md                                    "Presentation Guidelines"
 [2-5C]: 01-workflow/agile-user-stories-wireframes-lesson                      "Agile Framework"
 
+<a name="week3"></a>
+### Week 3 | Project 1
+
+| [Monday](#w3d1)                          | [Tuesday](#w3d2)                        | [Wednesday](#w3d3)                      | [Thursday](#w3d4)                       | [Friday](#w3d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Project Pitch Day2                       | Daily Standup                           | Daily Standup                           | Daily Standup                           | Daily Standup                           |
+| WireFrame + Trello + Coding Begins       | -                                       | -                                       | -                                       | -                                       |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| -                                        | -                                       | -                                       | -                                       | *JS CHANGE FREEZE*                      |
+| -                                        | -                                       | -                                       | -                                       | Final touch up (HTML & CSS)             |
+| -                                        | -                                       | -                                       | -                                       | Presentation                            |
+
 <a name="week4"></a>
 ### Week 4 | Node.js First Steps
 
 | [Monday](#w4d1)                          | [Tuesday](#w4d2)                        | [Wednesday](#w4d3)                      | [Thursday](#w4d4)                       | [Friday](#w4d5)                         |
 | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| Week 1-3 Retrospective                   | Node.js: First steps                    | Labs                                    | Mongo DB                                | Node.js: Mongoose                       |
+| Week 1-3 Retrospective                   | [Node.js: First steps][4-2A]            | [RLab: Express Routes][4-2C]            | [Mongo DB][4-4A]                        | [Node.js: Models with Mongoose][4-5A]   |
 | -                                        | -                                       | -                                       | -                                       | -                                       |
 | LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
-| Project 1 Feedback                       | Node.js: Jade templating                | Node.js: JSON                           | Lab                                     | Lab                                     |
-| How to structure code                    | Lab                                     | Node.js: AJAX                           | -                                       | -                                       |
+| Project 1 Feedback                       | [Node.js: Jade templating][4-2B]        | Node.js: JSON                           | Lab                                     | [HLab: Mongoose Modeling][4-5B]         |
+| How to structure code                    | [HLab: Express Routes][4-2C]            | Node.js: AJAX                           | -                                       | -                                       |
 | -                                        | -                                       | -                                       | -                                       | -                                       |
+
+[4-2A]: 04-node.js/node-express-intro                                          "Node.js: First Steps"
+[4-2B]: https://www.sitepoint.com/jade-tutorial-for-beginners/                 "Node.js: Jade intro"
+[4-2C]: https://github.com/wdi-hk-11/lab-express-routing                       "HLab: Express Routes"
+
+[4-4A]: 05-databases/mongodb/introduction.md                                   "MongoDB: Intro"
+
+[4-5A]: 04-node.js/node-express-mongo-models-lesson                            "Node.js: Mongoose"
+[4-5B]: https://github.com/wdi-hk-11/lab-node-express-mongo-modeling           "HLab: Mongoose Modeling"
 
 <a name="week5"></a>
 ### Week 5 | Node.js Hackathon
