@@ -49,13 +49,13 @@ MongoDB provides horizontal scalability as part of its core functionality.
 
 ## MongoDB Install & Setup
 
+### The Long Way... : \(  this is you linux! I don't feel sorry for you
+
 Installing MongoDB is a breeze thanks to our friend [HomeBrew](http://brew.sh/):
 
 ```
 $ brew update && brew install mongodb
 ```
-
-### How to run MongoDB?
 
 #### Install as a Daemon
 To have [launchd](https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man8/launchd.8.html#//apple_ref/doc/man/8/launchd) start MongoDB at login, we need to add a soft link to our [LaunchAgents](https://developer.apple.com/library/mac/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CreatingLaunchdJobs.html). `launchd` is Unix command in charge of managing  [agents/daemons](http://en.wikipedia.org/wiki/Daemon_%28computing%29):
@@ -78,7 +78,7 @@ Or, if you don't want/need to have running as a Daemon, you can just run the [mo
 $ mongod --config /usr/local/etc/mongod.conf
 ```
 
-### Create the data directory.
+#### Create the data directory.
 
 Before you start MongoDB for the first time, create the directory to which the [mongod process](http://docs.mongodb.org/manual/reference/program/mongod/#bin.mongod) will write data (after all, it's a dabatase!).
 
@@ -109,7 +109,7 @@ $ mongo --version
 MongoDB shell version: 3.0.1
 ```
 
-## Run MongoDB Daemon
+#### Run MongoDB Daemon
 
 We should be all setup now!! To have Mongo running, we only need to run the mongod command (Mongo Daemon):
 
@@ -133,6 +133,9 @@ $ mongod --dbpath <some alternate directory>
 
 To stop the mongod instance, press Control+C in the terminal where the mongod instance is running.
 
+### The Short Way!!! : \)
+
+[https://github.com/gcollazo/mongodbapp](https://github.com/gcollazo/mongodbapp)
 
 ## Accessing Mongo
 

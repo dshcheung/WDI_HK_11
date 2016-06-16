@@ -127,18 +127,20 @@
 
 | [Monday](#w4d1)                          | [Tuesday](#w4d2)                        | [Wednesday](#w4d3)                      | [Thursday](#w4d4)                       | [Friday](#w4d5)                         |
 | ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| Week 1-3 Retrospective                   | [Node.js: First steps][4-2A]            | [RLab: Express Routes][4-2C]            | [Mongo DB][4-4A]                        | [Node.js: Models with Mongoose][4-5A]   |
-| -                                        | -                                       | -                                       | -                                       | -                                       |
+| Week 1-3 Retrospective                   | [Node.js: First steps][4-2A]            | [RLab: Express Routes][4-2C]            | Review JSON & AJAX                      | [RLab: Mongo Restaurants][4-4C]         |
+| -                                        | -                                       | -                                       |                                         | [Node.js: Models with Mongoose][4-5A]   |
 | LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
-| Project 1 Feedback                       | [Node.js: Jade templating][4-2B]        | Node.js: JSON                           | Lab                                     | [HLab: Mongoose Modeling][4-5B]         |
-| How to structure code                    | [HLab: Express Routes][4-2C]            | Node.js: AJAX                           | -                                       | -                                       |
-| -                                        | -                                       | -                                       | -                                       | -                                       |
+| Project 1 Feedback                       | [Node.js: Jade templating][4-2B]        | Node.js: JSON                           | [MongoDB: Setup][4-4A]                  | [HLab: Mongoose Modeling][4-5B]         |
+| How to structure code                    | [HLab: Express Routes][4-2C]            | Node.js: AJAX                           | [MongoDB: Basics][4-4B]                 | -                                       |
+| -                                        | -                                       | -                                       | [ILab: Mongo Restaurants][4-4C]         | -                                       |
 
 [4-2A]: 04-node.js/node-express-intro                                          "Node.js: First Steps"
 [4-2B]: https://www.sitepoint.com/jade-tutorial-for-beginners/                 "Node.js: Jade intro"
 [4-2C]: https://github.com/wdi-hk-11/lab-express-routing                       "HLab: Express Routes"
 
-[4-4A]: 05-databases/mongodb/introduction.md                                   "MongoDB: Intro"
+[4-4A]: 05-databases/mongodb/setup.md                                          "MongoDB: Setup"
+[4-4B]: 05-databases/mongodb/basics.md                                         "MongoDB: Basics"
+[4-4C]: https://github.com/wdi-hk-11/lab-mongo-restaurants                     "ILab: Mongo Restaurants"
 
 [4-5A]: 04-node.js/node-express-mongo-models-lesson                            "Node.js: Mongoose"
 [4-5B]: https://github.com/wdi-hk-11/lab-node-express-mongo-modeling           "HLab: Mongoose Modeling"
