@@ -154,5 +154,7 @@
 | -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
 | LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
 | Node.js: Social login                    | Labs                                    | Labs                                    | Node.js: Heroku introduction            | -                                       |
+|[Node.js: Passports][5-1A]                | -                                       | -                                       | -                                       | -                                       |
 | -                                        | -                                       | -                                       | -                                       | -                                       |
-| -                                        | -                                       | -                                       | -                                       | -                                       |
+
+[5-1A]: https://github.com/wdi-hk-11/nodejs-passport                                          "Node.js: Passport"
