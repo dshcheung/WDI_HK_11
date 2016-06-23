@@ -153,6 +153,8 @@
 | Node.js: Passport                        | Model View Controller                   | Node.js: Hackathon Starter              | Node.js: Middelware                     | Project Spec                            |
 | -                                        | -                                       | -                                       | Node.js: Socket.io ?                    | -                                       |
 | LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
-| Node.js: Social login                    | Labs                                    | Labs                                    | Node.js: Heroku introduction            | -                                       |
+| Node.js: Social login                    | Labs                                    | Labs                                    | [Node.js: Heroku][5-4A]                 | -                                       |
 | -                                        | -                                       | -                                       | -                                       | -                                       |
 | -                                        | -                                       | -                                       | -                                       | -                                       |
+
+[4-2A]: 04-node.js/node-deployment-heroku                                          "Node.js: Heroku"
