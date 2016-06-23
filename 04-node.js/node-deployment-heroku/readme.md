@@ -112,6 +112,20 @@ heroku addons:create mongolab:sandbox
 git push heroku master
 ```
 
+#### If you are using Bower
+
+```
+npm install bower --save
+```
+
+in your `package.json` add
+
+```
+  "scripts": {
+    "postinstall": "bower install"
+  }
+```
+
 #### You made it!
 Once the deployment is done, open Google Chrome and go to `http://YOURHEROKUAPP.herokuapp.com/animals` and you should see the index page online!  Remember, you can always type in `heroku open` to launch the application from the command line.
 
