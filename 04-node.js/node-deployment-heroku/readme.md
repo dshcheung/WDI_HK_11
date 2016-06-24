@@ -53,12 +53,16 @@ To set this up, in the main directory of your application create a new file call
 web: node app.js
 ```
 
-Install the NPM packages using `npm install`.
-
-now you should be able to launch the server using foreman by running the command below:
+#### Create a new heroku app
 
 ```bash
-foreman start web
+heroku create
+```
+
+You should now be able to start the server by using
+
+```bash
+heroku local:start web
 ```
 
 Now, you should then see the classic Node log.
