@@ -159,3 +159,92 @@
 
 [5-1A]: https://github.com/wdi-hk-11/nodejs-passport                                          "Node.js: Passport"
 [5-4A]: 04-node.js/node-deployment-heroku                                                     "Node.js: Heroku"
+
+<a name="week7"></a>
+### Week 7 | Ruby on Rails
+
+| [Monday](#w7d1)                          | [Tuesday](#w7d2)                        | [Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
+| ---------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| Presentation @ 10AM                      | [Intro to Ruby Programming][7-2A]       | [R-Lab: Arrays & Hashes][7-2D]          | [R-Lab: Rails Medieval Objects][7-3B]   | [Intro to Relation DB][7-5A]            |
+| -                                        | [Control Flow in Ruby][7-2B]            | [OOP in Ruby][7-3A]                     | [R-Lab: Ruby Apartments][7-3C]          | [ILab: ERD Design][7-5B]                |
+| LUNCH                                    | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| Retrospective                            | [Arrays, Hashes & Blocks][7-2C]         | [ILab: Rails Medieval Objects][7-3B]    | [+What is MVC?][7-4A]                    | [SQL: Setup & CRUD][7-5C]               |
+| -                                        | [ILab: Arrays & Hashes][7-2D]           | [HLab: Ruby Apartments][7-3C]           | [Intro to Rails][7-4B]                  | [HLab: Find Carmen Sandiego][7-5D]      |
+| -                                        | [HLab: Ruby Koans][7-2E]                | -                                       | -                                       |                                         |
+
+[7-2A]: 06-ruby/ruby-data-types-variables-lesson                              "Intro to Ruby - Data Types & Variables"
+[7-2B]: 06-ruby/ruby-control-flow-lesson                                      "Control flow in Ruby"
+[7-2C]: 06-ruby/ruby-arrays-hashes-and-blocks-lesson                          "Arrays, Hashes, & Blocks"
+[7-2D]: https://github.com/wdi-hk-11/lab-ruby-arrays-and-hashes                      "ILab: Arrays & Hashes"
+[7-2E]: https://github.com/wdi-hk-11/ruby_koans                                      "HLab: Ruby Koans"
+
+[7-3A]: 06-ruby/ruby-oop-classes                                              "OOP in Ruby"
+[7-3B]: https://github.com/wdi-hk-11/lab-ruby-medieval-objects                       "ILab: Rails Medieval Objects"
+[7-3C]: https://github.com/wdi-hk-11/lab-ruby-apartments                             "HLab: Ruby Apartments"
+
+[7-4A]: 04-server-applications/rails-mvc-lesson                                      "What is MVC?"
+[7-4B]: 04-server-applications/rails-intro-lesson                                    "Intro to Rails"
+
+[7-5A]: 05-databases/data-modeling-intro-lesson                                      "Intro to Relational Data Modeling"
+[7-5B]: 05-databases/data-modeling-erd-design-lab                                    "ILab: ERD Design"
+[7-5C]: 05-databases/sql-setup-insert-update-delete-lesson                           "SQL: Setup & CRUD"
+[7-5D]: https://github.com/wdi-hk-11/lab-carmen-sandiego                             "HLab: Find Carmen Sandiego"
+
+#### Week 7 | Tuesday
+<a name="w7d2"></a>
+- [Ruby v JavaScript](06-ruby/ruby-vs-javascript-lesson)
+- Ruby Readings
+  - [Ruby in 20 Minutes](http://www.ruby-lang.org/en/documentation/quickstart/)
+  - [Important Language Features And Some Gotchas](http://www.ruby-lang.org/en/documentation/ruby-from-other-languages/)
+  - [Ruby QuickRef](http://www.zenspider.com/Languages/Ruby/QuickRef.html#pseudo-variables)
+  - [Try Ruby!!](http://tryruby.org/)
+  - [Ruby String Methods](http://ruby-doc.org/core-2.2.0/String.html)
+  - [Ruby Array Methods](http://ruby-doc.org/core-2.2.0/Array.html)
+
+#### Week 7 | Thursday
+<a name="w7d4"></a>
+- Rails Readings
+  - [Ruby on Rails: Getting Started](http://guides.rubyonrails.org/getting_started.html)
+  - [Rails Routing from the Outside in](http://guides.rubyonrails.org/routing.html)
+    - Everything you need to know abour Rails Routes
+
+<a name="week8"></a>
+### Week 8 | Ruby on Rails
+
+| [Monday](#w7d1)                           | [Tuesday](#w7d2)                        | [Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
+| ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| [R-Lab: Find Carmen Sandiego][7-5D]       | [R-Lab: ActiveRecord Finders][8-1D]     | [R-Lab: Modeling Relationshoips][8-2B]  | [Lab: Layouts, partials, views][8-3C]]  | [Authentication with Devise][8-5A]      |
+| [ActiveRecord and Migrations][8-1A]       | [Modeling Relationships][8-2A]          | [Controllers and Routes in Rails][8-3A] | [Rails API][8-4A]                       | [Photo Upload - Paperclip Gem][8-5B]    |
+| LUNCH                                     | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
+| [ILab: ActiveRecord and Migrations][8-1B] | [ILab: Modeling Relationships][8-2B]    | [Layouts, partials, and views][8-3B]    | [Building and Submitting Forms][8-4B]   | [Scraping][]                            |
+| [ActiveRecord Methods and Finders][8-1C]  | [Seed & Faker][]                        | [ILab: Layouts, partials, views][8-3C]  | [Heroku][]                              | [Project 3 Spec][]                      |
+| [HLab: ActiveRecord Finders][8-1D]        | -                                       | [Read: MVC GUIDE][8-4C]                 | -                                       | -                                       |
+
+[8-1A]: 04-server-applications/rails-activerecord-models-migrations-lesson           "Building Models with ActiveRecord and Migrations"
+[8-1B]: https://github.com/wdi-hk-11/lab-rails-activerecord-models-migrations        "ILab: ActiveRecord and Migrations"
+[8-1C]: 04-server-applications/rails-activerecord-methods-and-finders-lesson         "ActiveRecord Methods and Finders"
+[8-1D]: https://github.com/wdi-hk-11/lab-rails-activerecord-finders                  "HLab: ActiveRecord Finders"
+
+[8-2A]: 04-server-applications/rails-activerecord-modeling-relationships-lesson      "Modeling Relationships"
+[8-2B]: https://github.com/wdi-hk-11/lab-rails-relationships                         "ILab: Modeling Relationships"
+
+[8-3A]: 04-server-applications/rails-controllers-and-routes-lesson                   "Controllers and Routes"
+[8-3B]: 04-server-applications/rails-layouts-views-lesson                            "Layouts, partials, and views"
+[8-3C]: https://github.com/wdi-hk-11/lab-rails-layouts-views                         "ILab: Layouts, partials, views"
+
+[8-4A]: 04-server-applications/rails-api-lesson                                      "Rails API"
+[8-4B]: 04-server-applications/rails-forms-lesson                                    "Building and Submitting Forms"
+[8-4C]: server-applications-guides/rails/01_mvc                                      "Read: MVC GUIDE"
+
+[8-5A]: server-applications-guides/rails/02_rails_jquery/07-devise-token-auth.md     "Authentication with Devise"
+[8-5B]: server-applications-guides/rails/gems/paperclip                              "Photo Upload - Paperclip Gem"
+
+<!-- [9-3A]: 07-deployment/heroku-intro-lesson                                            "Deploying to Heroku" -->
+<!-- [9-3B]: server-applications-guides/rails/gems/nokogiri                               "Ruby Web Scraping" -->
+
+### GUIDES
+<a name="guides">
+- [MVC Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/01_mvc)
+- [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/02_rails_jquery)
+- [GEMS](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/gems)
+<!-- add faker gem to guides -->
