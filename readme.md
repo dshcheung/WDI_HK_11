@@ -172,22 +172,22 @@
 | -                                        | [ILab: Arrays & Hashes][7-2D]           | [HLab: Ruby Apartments][7-3C]           | [Intro to Rails][7-4B]                  | [HLab: Find Carmen Sandiego][7-5D]      |
 | -                                        | [HLab: Ruby Koans][7-2E]                | -                                       | -                                       |                                         |
 
-[7-2A]: 06-ruby/ruby-data-types-variables-lesson                              "Intro to Ruby - Data Types & Variables"
-[7-2B]: 06-ruby/ruby-control-flow-lesson                                      "Control flow in Ruby"
-[7-2C]: 06-ruby/ruby-arrays-hashes-and-blocks-lesson                          "Arrays, Hashes, & Blocks"
+[7-2A]: 06-ruby/ruby-data-types-variables-lesson                                     "Intro to Ruby - Data Types & Variables"
+[7-2B]: 06-ruby/ruby-control-flow-lesson                                             "Control flow in Ruby"
+[7-2C]: 06-ruby/ruby-arrays-hashes-and-blocks-lesson                                 "Arrays, Hashes, & Blocks"
 [7-2D]: https://github.com/wdi-hk-11/lab-ruby-arrays-and-hashes                      "ILab: Arrays & Hashes"
 [7-2E]: https://github.com/wdi-hk-11/ruby_koans                                      "HLab: Ruby Koans"
 
-[7-3A]: 06-ruby/ruby-oop-classes                                              "OOP in Ruby"
+[7-3A]: 06-ruby/ruby-oop-classes                                                     "OOP in Ruby"
 [7-3B]: https://github.com/wdi-hk-11/lab-ruby-medieval-objects                       "ILab: Rails Medieval Objects"
 [7-3C]: https://github.com/wdi-hk-11/lab-ruby-apartments                             "HLab: Ruby Apartments"
 
-[7-4A]: 04-server-applications/rails-mvc-lesson                                      "What is MVC?"
-[7-4B]: 04-server-applications/rails-intro-lesson                                    "Intro to Rails"
+[7-4A]: 07-rails/rails-mvc-lesson                                                    "What is MVC?"
+[7-4B]: 07-rails/rails-intro-lesson                                                  "Intro to Rails"
 
-[7-5A]: 05-databases/data-modeling-intro-lesson                                      "Intro to Relational Data Modeling"
-[7-5B]: 05-databases/data-modeling-erd-design-lab                                    "ILab: ERD Design"
-[7-5C]: 05-databases/sql-setup-insert-update-delete-lesson                           "SQL: Setup & CRUD"
+[7-5A]: 08-rails/data-modeling-intro-lesson                                          "Intro to Relational Data Modeling"
+[7-5B]: 08-rails/data-modeling-erd-design-lab                                        "ILab: ERD Design"
+[7-5C]: 08-rails/sql-setup-insert-update-delete-lesson                               "SQL: Setup & CRUD"
 [7-5D]: https://github.com/wdi-hk-11/lab-carmen-sandiego                             "HLab: Find Carmen Sandiego"
 
 #### Week 7 | Tuesday
@@ -220,20 +220,20 @@
 | [ActiveRecord Methods and Finders][8-1C]  | [Seed & Faker][]                        | [ILab: Layouts, partials, views][8-3C]  | [Heroku][]                              | [Project 3 Spec][]                      |
 | [HLab: ActiveRecord Finders][8-1D]        | -                                       | [Read: MVC GUIDE][8-4C]                 | -                                       | -                                       |
 
-[8-1A]: 04-server-applications/rails-activerecord-models-migrations-lesson           "Building Models with ActiveRecord and Migrations"
+[8-1A]: 07-rails/rails-activerecord-models-migrations-lesson                         "Building Models with ActiveRecord and Migrations"
 [8-1B]: https://github.com/wdi-hk-11/lab-rails-activerecord-models-migrations        "ILab: ActiveRecord and Migrations"
-[8-1C]: 04-server-applications/rails-activerecord-methods-and-finders-lesson         "ActiveRecord Methods and Finders"
+[8-1C]: 07-rails/rails-activerecord-methods-and-finders-lesson                       "ActiveRecord Methods and Finders"
 [8-1D]: https://github.com/wdi-hk-11/lab-rails-activerecord-finders                  "HLab: ActiveRecord Finders"
 
-[8-2A]: 04-server-applications/rails-activerecord-modeling-relationships-lesson      "Modeling Relationships"
+[8-2A]: 07-rails/rails-activerecord-modeling-relationships-lesson                    "Modeling Relationships"
 [8-2B]: https://github.com/wdi-hk-11/lab-rails-relationships                         "ILab: Modeling Relationships"
 
-[8-3A]: 04-server-applications/rails-controllers-and-routes-lesson                   "Controllers and Routes"
-[8-3B]: 04-server-applications/rails-layouts-views-lesson                            "Layouts, partials, and views"
+[8-3A]: 07-rails/rails-controllers-and-routes-lesson                                 "Controllers and Routes"
+[8-3B]: 07-rails/rails-layouts-views-lesson                                          "Layouts, partials, and views"
 [8-3C]: https://github.com/wdi-hk-11/lab-rails-layouts-views                         "ILab: Layouts, partials, views"
 
-[8-4A]: 04-server-applications/rails-api-lesson                                      "Rails API"
-[8-4B]: 04-server-applications/rails-forms-lesson                                    "Building and Submitting Forms"
+[8-4A]: 07-rails/rails-api-lesson                                                    "Rails API"
+[8-4B]: 07-rails/rails-forms-lesson                                                  "Building and Submitting Forms"
 [8-4C]: server-applications-guides/rails/01_mvc                                      "Read: MVC GUIDE"
 
 [8-5A]: server-applications-guides/rails/02_rails_jquery/07-devise-token-auth.md     "Authentication with Devise"
@@ -244,7 +244,7 @@
 
 ### GUIDES
 <a name="guides">
-- [MVC Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/01_mvc)
-- [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/02_rails_jquery)
-- [GEMS](https://github.com/ga-students/WDI_HK_10/tree/master/server-applications-guides/rails/gems)
+- [MVC Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/01_mvc)
+- [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/02_rails_jquery)
+- [GEMS](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/gems)
 <!-- add faker gem to guides -->
