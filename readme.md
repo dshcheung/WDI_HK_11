@@ -185,9 +185,9 @@
 [7-4A]: 07-rails/rails-mvc-lesson                                                    "What is MVC?"
 [7-4B]: 07-rails/rails-intro-lesson                                                  "Intro to Rails"
 
-[7-5A]: 08-rails/data-modeling-intro-lesson                                          "Intro to Relational Data Modeling"
-[7-5B]: 08-rails/data-modeling-erd-design-lab                                        "ILab: ERD Design"
-[7-5C]: 08-rails/sql-setup-insert-update-delete-lesson                               "SQL: Setup & CRUD"
+[7-5A]: 08-sql/data-modeling-intro-lesson                                          "Intro to Relational Data Modeling"
+[7-5B]: 08-sql/data-modeling-erd-design-lab                                        "ILab: ERD Design"
+[7-5C]: 08-sql/sql-setup-insert-update-delete-lesson                               "SQL: Setup & CRUD"
 [7-5D]: https://github.com/wdi-hk-11/lab-carmen-sandiego                             "HLab: Find Carmen Sandiego"
 
 #### Week 7 | Tuesday
