@@ -23,9 +23,19 @@ Our example app today is for a pizza shop – Luigi's Pizza Bazaar. We'll be mak
 
 Don't forget to `bundle install`, `rake db:create`, and `rake db:migrate`
 
-## Investigate Starter Code (5 mins)
+## Create Starter Code (5 mins)
 
-Fork and Clone [this repo](https://github.com/wdi-hk-11/lesson-rails-activerecord-methods-and-finders)
+```
+rails new pizzahut -d postgresql -BT --skip-turbolinks
+```
+
+add `gem "pry-rails"` to gem file
+
+`bundle install`
+
+```
+rails g model pizza name:string sauce:string cheese:boolean mushroom:boolean extra_toppings:string
+```
 
 > 5 minute investigatory break. Play some pizza music.
 
