@@ -213,11 +213,11 @@
 
 | [Monday](#w7d1)                           | [Tuesday](#w7d2)                        | [Wednesday](#w7d3)                      | [Thursday](#w7d4)                       | [Friday](#w7d5)                         |
 | ----------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
-| [R-Lab: Find Carmen Sandiego][7-5D]       | [R-Lab: ActiveRecord Finders][8-1D]     | [R-Lab: Modeling Relationshoips][8-2B]  | [Lab: Layouts, partials, views][8-3C]]  | [Authentication with Devise][8-5A]      |
+| [R-Lab: Find Carmen Sandiego][7-5D]       | [R-Lab: ActiveRecord Finders][8-1D]     | [R-Lab: Modeling Relationshoips][8-2B]  | [Lab: Layouts, partials, views][8-3C]   | [Authentication with Devise][8-5A]      |
 | [ActiveRecord and Migrations][8-1A]       | [Modeling Relationships][8-2A]          | [Controllers and Routes in Rails][8-3A] | [Rails API][8-4A]                       | [Photo Upload - Paperclip Gem][8-5B]    |
 | LUNCH                                     | LUNCH                                   | LUNCH                                   | LUNCH                                   | LUNCH                                   |
-| [ILab: ActiveRecord and Migrations][8-1B] | [ILab: Modeling Relationships][8-2B]    | [Layouts, partials, and views][8-3B]    | [Building and Submitting Forms][8-4B]   | [Scraping][]                            |
-| [ActiveRecord Methods and Finders][8-1C]  | [Seed & Faker][]                        | [ILab: Layouts, partials, views][8-3C]  | [Heroku][]                              | [Project 3 Spec][]                      |
+| [ILab: ActiveRecord and Migrations][8-1B] | [ILab: Modeling Relationships][8-2B]    | [Layouts, partials, and views][8-3B]    | [Building and Submitting Forms][8-4B]   | [Scraping][8-5C]                        |
+| [ActiveRecord Methods and Finders][8-1C]  | [Seed & Faker][8-2C]                    | [ILab: Layouts, partials, views][8-3C]  | [Heroku][8-4D]                          | [Project 3 Spec][8-5D]                  |
 | [HLab: ActiveRecord Finders][8-1D]        | -                                       | [Read: MVC GUIDE][8-4C]                 | -                                       | -                                       |
 
 [8-1A]: 07-rails/rails-activerecord-models-migrations-lesson                         "Building Models with ActiveRecord and Migrations"
@@ -227,6 +227,7 @@
 
 [8-2A]: 07-rails/rails-activerecord-modeling-relationships-lesson                    "Modeling Relationships"
 [8-2B]: https://github.com/wdi-hk-11/lab-rails-relationships                         "ILab: Modeling Relationships"
+[8-2C]: guides/rails/gems/faker                                                      "Seed & Faker"
 
 [8-3A]: 07-rails/rails-controllers-and-routes-lesson                                 "Controllers and Routes"
 [8-3B]: 07-rails/rails-layouts-views-lesson                                          "Layouts, partials, and views"
@@ -235,16 +236,16 @@
 [8-4A]: 07-rails/rails-api-lesson                                                    "Rails API"
 [8-4B]: 07-rails/rails-forms-lesson                                                  "Building and Submitting Forms"
 [8-4C]: server-applications-guides/rails/01_mvc                                      "Read: MVC GUIDE"
+[8-4D]: guides/rails/02_rails_jquery/06-deploy-to-heroku.md                          "Deploying to Heroku"
 
 [8-5A]: server-applications-guides/rails/02_rails_jquery/07-devise-token-auth.md     "Authentication with Devise"
 [8-5B]: server-applications-guides/rails/gems/paperclip                              "Photo Upload - Paperclip Gem"
+[8-5C]: guides/rails/gems/nokogiri                                                   "Scraping"
+[8-5D]: projects/project-03.md                                                       "Project 3 Spec"
 
-<!-- [9-3A]: 07-deployment/heroku-intro-lesson                                            "Deploying to Heroku" -->
-<!-- [9-3B]: server-applications-guides/rails/gems/nokogiri                               "Ruby Web Scraping" -->
 
 ### GUIDES
 <a name="guides">
 - [MVC Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/01_mvc)
 - [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/02_rails_jquery)
 - [GEMS](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/gems)
-<!-- add faker gem to guides -->
