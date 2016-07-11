@@ -25,6 +25,8 @@ Don't forget to `bundle install`, `rake db:create`, and `rake db:migrate`
 
 ## Investigate Starter Code (5 mins)
 
+Fork and Clone [this repo](https://github.com/wdi-hk-11/lesson-rails-activerecord-methods-and-finders)
+
 > 5 minute investigatory break. Play some pizza music.
 
 ## Create - Codealong (10 mins)
