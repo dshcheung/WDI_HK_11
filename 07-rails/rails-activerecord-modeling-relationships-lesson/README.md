@@ -108,7 +108,7 @@ and to find the artist related to an album:
 
 ```ruby
 
-Album.find(1).artists
+Album.find(1).artist
 ```
 
 That's it! Given that the relationship between the Artist and Album class is a has_many, ActiveRecord will always return an array, even if there is no corresponding result. On the other hand, when we ask for an artist related to an album, the result will always be an artist instance, and you'll notice that the ortograph of the methods correspond with this logic too (`albums`, `artist`).
