@@ -72,7 +72,7 @@ group :development, :test do
 end
 ```
 
-To set **local** environment variables, create a file called `.env` and gitignore it.
+To set **local** environment variables, create a file called `.env` and gitignore it (**IMPORTANT!!!!** ).
 
 In `.env`,
 
