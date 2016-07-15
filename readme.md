@@ -249,3 +249,5 @@
 - [MVC Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/01_mvc)
 - [Rails with jQuery Guide](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/02_rails_jquery)
 - [GEMS](https://github.com/ga-students/WDI_HK_11/tree/master/guides/rails/gems)
+- [rails-blog-erb-sample](https://github.com/dshcheung/rails-blog-erb-sample)
+- [rails-blog-ajax-single-page-sample](https://github.com/dshcheung/rails-blog-ajax-single-page-sample)
